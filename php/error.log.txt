@@ -1,0 +1,1 @@
+[16-Jun-2020 11:40:31 Australia/Melbourne] PHP Fatal error:  Allowed memory size of 157286400 bytes exhausted (tried to allocate 32768 bytes) in /home/antiquith/Documents/Stien's/php/class/textsanitizer/config.php on line 1
